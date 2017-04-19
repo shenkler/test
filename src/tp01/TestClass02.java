@@ -8,6 +8,8 @@ public class TestClass02 {
   private int number;
   
   public void test (){
+	  private int i;
+	  return;
 	  
   }
   
