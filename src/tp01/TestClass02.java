@@ -12,6 +12,8 @@ public class TestClass02 {
   }
   
   public void test2(){
+	  private int j;
+	  return;
 	  
   }
 }
