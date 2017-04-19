@@ -6,4 +6,12 @@ public class TestClass02 {
   private int count;
 
   private int number;
+  
+  public void test (){
+	  
+  }
+  
+  public void test2(){
+	  
+  }
 }
